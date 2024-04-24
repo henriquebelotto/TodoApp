@@ -11,3 +11,5 @@
 - Pinia - Vue.JS State Management Official Library
 
 ## Demo
+
+[](https://github.com/henriquebelotto/TodoApp/blob/main/public/Site-demo.GIF)
