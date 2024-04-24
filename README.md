@@ -12,4 +12,4 @@
 
 ## Demo
 
-[](https://github.com/henriquebelotto/TodoApp/blob/main/public/Site-demo.GIF)
+![](https://github.com/henriquebelotto/TodoApp/blob/main/public/Site-demo.GIF)
